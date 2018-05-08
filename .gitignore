@@ -7,7 +7,6 @@
 .cache
 .fasd
 .fasd-init-bash
-.gitconfig
 .local
 .netrc
 .npm
